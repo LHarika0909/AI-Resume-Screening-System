@@ -1,2 +1,3 @@
-# AI-Resume-Screening-System
-AI-powered Resume Screening System built with Python, NLP, BERT, and Streamlit to analyze resumes, match candidates with job descriptions, and generate recruiter-friendly analytics dashboards.
+# AI Resume Screening System
+
+Streamlit-based AI resume screening project with PDF parsing, skill extraction, scoring, ranking, charts, and SQLite storage.
